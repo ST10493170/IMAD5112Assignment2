@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="Review">"Review\">Review</string>
+    <string name="Exit">"Exit\">Exit</string>
+    <string name="Textview">"TextView_label\">TextView</string>
+    <string name="TextView">"TextView_label\">TextView</string>
+    <string name="False">False</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Next">Next</string>
+    <string name="Questions">Questions</string>
+    <string name="True">True</string>
+</resources>
